@@ -3,7 +3,7 @@
 
 - **This repo about my hometown DERSIM**
 
-[Link](https://tr.wikipedia.org/wiki/Dersim) 
+[Dersim tarihi](https://tr.wikipedia.org/wiki/Dersim) 
 
 
-![Image](https://tr.wikipedia.org/wiki/Dersim#/media/Dosya:Dersim,_Capt._L._Molyneux-Seel,_1911.jpg)
+![Dersim merkez foto](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dersim%2C_Capt._L._Molyneux-Seel%2C_1911.jpg/1920px-Dersim%2C_Capt._L._Molyneux-Seel%2C_1911.jpg)
